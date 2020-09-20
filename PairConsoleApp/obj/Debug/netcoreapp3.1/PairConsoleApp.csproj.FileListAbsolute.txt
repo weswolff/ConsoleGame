@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\bin\Debug\netcoreapp3.1\PairConsoleApp.exe
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\bin\Debug\netcoreapp3.1\PairConsoleApp.deps.json
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\bin\Debug\netcoreapp3.1\PairConsoleApp.runtimeconfig.json
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\bin\Debug\netcoreapp3.1\PairConsoleApp.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\bin\Debug\netcoreapp3.1\PairConsoleApp.dll
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\bin\Debug\netcoreapp3.1\PairConsoleApp.pdb
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.dll
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.pdb
+C:\ElevenFiftyProjects\DotNetProjects\PairConsoleApp\PairConsoleApp\obj\Debug\netcoreapp3.1\PairConsoleApp.genruntimeconfig.cache
